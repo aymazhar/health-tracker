@@ -1,0 +1,8 @@
+.titled-pane {
+    -fx-background-color: #ffffff;
+}
+
+.titled-pane > .title
+{
+-fx-background-color: #ffffff;
+}
