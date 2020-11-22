@@ -6,12 +6,9 @@ A common issue faced in healthcare today is the lack of a personalized electroni
 available to a person at anytime. Patients often forget their medication lists when going to the doctor or
 research studies and are unaware of their previous vaccinations.
 
-The proposed project will be similar to that of the Standard Project, such that it will function as a personalized
-e-health tracker/medical record, with due dates, priorities and tags. The application will allow a user to create
+The proposed project functions as a personalized e-health tracker/medical record, with due dates, priorities and tags. The application will allow a user to create
 a personal profile, where they can track their health measurements by inputting clinical values (height, weight,
 heart rate, etc.) obtained from external devices (i.e. Fitbit). Users will also be able to log their vitamins, medications, and vaccinations, and be able to set due dates/reminders on when to take their medications next.
-Depending on the complexity of the above project, an additional feature could be added, to graphically represent an
-individual’s progress in their health goals (ex: tracking their weight, medication/vitamin intake, etc.).
 
 Description and Functionality
 
